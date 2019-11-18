@@ -13,6 +13,8 @@ namespace ConsoleApplication1
 
             Console.WriteLine("测试专用");
 
+            Console.WriteLine("更新本地代码...");
+
         }
     }
 }
